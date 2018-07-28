@@ -1,2 +1,5 @@
-var playlist = {artistnames: "songtitles"
-};
+var playlist = {artistnames: "songtitles"};
+
+function updatePlaylist (){
+  
+}
